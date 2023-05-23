@@ -5,10 +5,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "node build index.js"
   },
   "dependencies": {
     "uuid": "^9.0.0",
     "ws": "^8.11.0"
   }
 }
+
